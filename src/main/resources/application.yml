@@ -1,0 +1,12 @@
+#Mon Dec 04 04:14:52 UTC 2023
+#micronaut.application.name=testTask
+#micronaut.server.port=8081
+#micronaut.views.thymeleaf.enabled=true
+#micronaut.views.folder=views
+micronaut:
+  server:
+    port: 8081
+  views:
+    thymeleaf:
+      enabled: true
+    folder: views
